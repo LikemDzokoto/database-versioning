@@ -1,0 +1,16 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "aws-1-eu-west-1.pooler.supabase.com",
+            "port": 6543,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "database_versioning ",
+            "database": "postgres",
+            "username": "postgres.mlnbnntjivunfzfalyqi",
+            "group": "my_works"
+        }
+    ]
+}
