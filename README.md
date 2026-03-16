@@ -1,7 +1,7 @@
 
 ### 1. The Architectural Philosophy
 
-In high-stakes systems—specifically **data is never deleted.** Standard CRUD (Create, Read, Update, Delete) is insufficient because it destroys the audit trail. I implemented a **Temporal Table Pattern** using PostgreSQL triggers to ensure that every `UPDATE` is actually a "fork" of state, preserving the past while advancing the present.
+In high-stakes systems **data is never deleted.** Standard CRUD (Create, Read, Update, Delete) is insufficient because it destroys the audit trail. I implemented a **Temporal Table Pattern** using PostgreSQL triggers to ensure that every `UPDATE` is actually a "fork" of state, preserving the past while advancing the present.
 
 PostgreSQL lacks built-in SQL:2011-style temporal tables, but its MVCC architecture inherently keeps historical row versions until vacuumed. To explicitly track history, I relied on patterns like audit/history tables, trigger-based versioning, or community extensions. In contrast, DBMS like SQL Server, Oracle, and MariaDB have native system-period (transaction-time) support. SQL:2011 defines SYSTEM_TIME tables, but I have emulated this in PostgreSQL to fit my specific project needs.
 
