@@ -224,7 +224,7 @@ EXECUTE FUNCTION handle_todo_versioning();
 
 ```
 
-### 3. The Final Constraint (The "Magic Trick")
+### 3. The Final Constraint
 
 ```sql
 DROP INDEX IF EXISTS "IX_TodoItems_EntityId_Version";
