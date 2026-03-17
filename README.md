@@ -22,7 +22,6 @@ Unlike my initial "In-Table" design, the current system separates **Operational 
 
 | Component | Responsibility | Database Object |
 
-| --- | --- | --- |
 
 | **Live State** | Holds only the most recent version for the UI. | `public.todo_item` |
 
