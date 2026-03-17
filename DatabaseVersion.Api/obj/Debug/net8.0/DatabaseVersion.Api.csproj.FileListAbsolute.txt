@@ -109,3 +109,4 @@ C:\Users\likem\Documents\Axon\database_versioning\DatabaseVersion.Api\obj\Debug\
 C:\Users\likem\Documents\Axon\database_versioning\DatabaseVersion.Api\obj\Debug\net8.0\ref\DatabaseVersion.Api.dll
 c:\Users\likem\Documents\Axon\database_versioning\DatabaseVersion.Api\bin\Debug\net8.0\Npgsql.dll
 c:\Users\likem\Documents\Axon\database_versioning\DatabaseVersion.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\likem\Documents\Axon\database_versioning\DatabaseVersion.Api\obj\Debug\net8.0\DatabaseVersion.Api.sourcelink.json
