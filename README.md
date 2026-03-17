@@ -1,6 +1,6 @@
 ##  The Architectural Philosophy: Immutable State
 
-In this project, I moved beyond standard CRUD. In high-stakes environments (like the **GHIMS** healthcare deployment tracking), data is never truly deleted—it only evolves. I implemented a **Temporal Table Pattern** to ensure every `UPDATE` is recorded as a historical snapshot, preserving a verifiable audit trail.
+In this project, I moved beyond standard CRUD. In high-stakes environments, data is never truly deleted, it only evolves. I implemented a **Temporal Table Pattern** to ensure every `UPDATE` is recorded as a historical snapshot, preserving a verifiable audit trail.
 
 
 
