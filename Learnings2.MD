@@ -233,9 +233,9 @@ If autovacuum lags:
 
 | Scenario               | Impact         |
 | ---------------------- | -------------- |
-| Normal CRUD            | ⚠️ 2–3x slower |
+| Normal CRUD            |  2–3x slower |
 | High-frequency updates |  risky        |
-| Batch updates          | 🚨 dangerous   |
+| Batch updates          |  dangerous   |
 
 ---
 
@@ -244,7 +244,7 @@ If autovacuum lags:
 | Query          | Performance |
 | -------------- | ----------- |
 | Current state  |  fast      |
-| Entity history | ⚠️ medium   |
+| Entity history |  medium   |
 | Deep history   |  slow      |
 
 ---

@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace DatabaseVersion.Api.Models;
 
-[Table("todo_items")]
+[Table("todo_item")]
 public class TodoItem
 {
     [Key]
@@ -24,6 +24,13 @@ public class TodoItem
     
     [Column("is_completed")]
     public bool IsCompleted { get; set; }
+
+    //foriegn key for the user_id 
+    [Column("user_id")]
+    public Guid Userid { get; set; } 
+
+    //Navigation property for the user 
+    public User? User  {get; set; }
 
     [Column("updated_at")]
     public DateTime UpdatedAt { get; set; } = DateTime.UtcNow;
