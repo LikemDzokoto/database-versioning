@@ -1,0 +1,6 @@
+@mssql_database_version_HostAddress = http://localhost:5293
+
+GET {{mssql_database_version_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

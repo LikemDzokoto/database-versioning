@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\mssql_database_version.props" />
+</Project>

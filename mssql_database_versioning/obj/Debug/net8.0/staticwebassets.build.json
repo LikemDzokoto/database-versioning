@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iSi7Qa6efuhisf2VPvHDFH464dzE88DD60MO0c++wPY=",
+  "Source": "mssql_database_version",
+  "BasePath": "_content/mssql_database_version",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
