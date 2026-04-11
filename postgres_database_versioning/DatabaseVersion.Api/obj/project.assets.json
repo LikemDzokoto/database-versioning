@@ -2624,11 +2624,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\likem\\Documents\\Axon\\postgres_database_versioning\\DatabaseVersion.Api\\DatabaseVersion.Api.csproj",
+      "projectUniqueName": "C:\\Users\\likem\\Documents\\Axon\\database_versioning\\postgres_database_versioning\\DatabaseVersion.Api\\DatabaseVersion.Api.csproj",
       "projectName": "DatabaseVersion.Api",
-      "projectPath": "C:\\Users\\likem\\Documents\\Axon\\postgres_database_versioning\\DatabaseVersion.Api\\DatabaseVersion.Api.csproj",
+      "projectPath": "C:\\Users\\likem\\Documents\\Axon\\database_versioning\\postgres_database_versioning\\DatabaseVersion.Api\\DatabaseVersion.Api.csproj",
       "packagesPath": "C:\\Users\\likem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\likem\\Documents\\Axon\\postgres_database_versioning\\DatabaseVersion.Api\\obj\\",
+      "outputPath": "C:\\Users\\likem\\Documents\\Axon\\database_versioning\\postgres_database_versioning\\DatabaseVersion.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\likem\\AppData\\Roaming\\NuGet\\NuGet.Config"

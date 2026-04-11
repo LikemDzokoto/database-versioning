@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5O0ufxM1PHM=",
+  "dgSpecHash": "dH4f6GFWdxM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\likem\\Documents\\Axon\\mssql_database_version\\mssql_database_version.csproj",
+  "projectFilePath": "C:\\Users\\likem\\Documents\\Axon\\database_versioning\\mssql_database_versioning\\mssql_database_version.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\likem\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\likem\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

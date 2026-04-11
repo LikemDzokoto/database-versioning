@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pWinljuQFjM=",
+  "dgSpecHash": "9VI/08WypNM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\likem\\Documents\\Axon\\postgres_database_versioning\\DatabaseVersion.Api\\DatabaseVersion.Api.csproj",
+  "projectFilePath": "C:\\Users\\likem\\Documents\\Axon\\database_versioning\\postgres_database_versioning\\DatabaseVersion.Api\\DatabaseVersion.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\likem\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\likem\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.25\\microsoft.aspnetcore.openapi.8.0.25.nupkg.sha512",

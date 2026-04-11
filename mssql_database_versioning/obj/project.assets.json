@@ -4440,11 +4440,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\likem\\Documents\\Axon\\mssql_database_version\\mssql_database_version.csproj",
+      "projectUniqueName": "C:\\Users\\likem\\Documents\\Axon\\database_versioning\\mssql_database_versioning\\mssql_database_version.csproj",
       "projectName": "mssql_database_version",
-      "projectPath": "C:\\Users\\likem\\Documents\\Axon\\mssql_database_version\\mssql_database_version.csproj",
+      "projectPath": "C:\\Users\\likem\\Documents\\Axon\\database_versioning\\mssql_database_versioning\\mssql_database_version.csproj",
       "packagesPath": "C:\\Users\\likem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\likem\\Documents\\Axon\\mssql_database_version\\obj\\",
+      "outputPath": "C:\\Users\\likem\\Documents\\Axon\\database_versioning\\mssql_database_versioning\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\likem\\AppData\\Roaming\\NuGet\\NuGet.Config"
